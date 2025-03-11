@@ -1,2 +1,5 @@
-# state_space_tracking
-some notes on Bayesian state space tracking
+# Bayesian state space tracking
+
+`sst_01`
+* Motivation
+* Bias and variance of estimator
