@@ -4,4 +4,5 @@
 * Bias and variance of estimator
 * Distribution and likelihood function
 * Maximum likelihood estimator
-* Bayesian mean squared error (MSE) and optimal estimator
+* Mean squared error (MSE) of estimator
+* Bayesian MSE and its optimizer
