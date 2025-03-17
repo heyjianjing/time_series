@@ -8,4 +8,5 @@
 * Bayesian MSE and its optimizer
 * State space tracking
 * Markov property
-* Bayesian joint PDF recursion
+* Joint Bayesian recursion
+* Marginal Bayesian recursion
