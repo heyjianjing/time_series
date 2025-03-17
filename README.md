@@ -6,3 +6,5 @@
 * Maximum likelihood estimator
 * Mean squared error (MSE) of estimator
 * Bayesian MSE and its optimizer
+* State space tracking
+* Markov property
