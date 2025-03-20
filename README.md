@@ -10,4 +10,4 @@
 * Markov property
 * Joint Bayesian recursion
 * Marginal Bayesian recursion with numerical integration
-* **Example**: 1D Single mode tracking
+* **Example**: 1D single mode tracking
