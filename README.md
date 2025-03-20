@@ -10,3 +10,4 @@
 * Markov property
 * Joint Bayesian recursion
 * Marginal Bayesian recursion with numerical integration
+* **Example**: Single mode tracking
