@@ -2,7 +2,7 @@
 
 Main reference
 * Lectures from Prof. James McNames (Portland State)
-* 
+
 `sst_01`
 * Bias and variance of estimator
 * Distribution and likelihood function
