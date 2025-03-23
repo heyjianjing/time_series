@@ -14,3 +14,6 @@ Main reference
 * Joint Bayesian recursion
 * Marginal Bayesian recursion with numerical integration
 * **Example**: 1D single mode and multi-mode tracking
+
+`sst_02`
+* Monte Carlo (MC) integration
