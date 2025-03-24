@@ -17,3 +17,4 @@ Main reference
 
 `sst_02`
 * Monte Carlo (MC) integration
+* Importance sampling
