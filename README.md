@@ -18,4 +18,4 @@ Main reference
 `sst_02`
 * Monte Carlo (MC) integration
 * Importance sampling
-* Monte Carlo integration as Schwartz distribution acts on test function
+* MC integration as Schwartz distribution acts on test function
