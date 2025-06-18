@@ -18,4 +18,6 @@ Main reference
 `sst_02`
 * Monte Carlo (MC) integration
 * Importance sampling
+* Impulse (particle) representation of distribution
 * MC integration as Schwartz distribution acts on test function
+* Approximate posterior density with particles 
