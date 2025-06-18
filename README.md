@@ -20,4 +20,6 @@ Main reference
 * Importance sampling
 * Impulse (particle) representation of distribution
 * MC integration as Schwartz distribution acts on test function
-* Approximate posterior density with particles 
+* Approximate posterior density with particles
+* Recursion for importance density and weights
+* Original particle filter algorithm
