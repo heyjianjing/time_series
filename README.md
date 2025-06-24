@@ -24,3 +24,4 @@ Main reference
 * Recursion for importance density and weights
 * Sequential importance sampling, SIS
 * **Example**: 1D single mode and multi-mode tracking
+* Effective particle number and degeneracy problem
