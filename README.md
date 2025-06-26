@@ -25,3 +25,4 @@ Main reference
 * Sequential importance sampling, SIS
 * **Example**: 1D single mode and multi-mode tracking
 * Effective particle number and degeneracy problem
+* Particle resampling
