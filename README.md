@@ -22,7 +22,7 @@ Main reference
 * MC integration as Schwartz distribution acts on test function
 * Approximate posterior density with particles
 * Recursion for importance density and weights
-* Sequential importance sampling, SIS
-* **Example**: 1D single mode and multi-mode tracking
+* Sequential importance sampling (SIS)
+* **Example**: 1D single mode and multi-mode tracking of state
 * Effective particle number and degeneracy problem
 * Particle resampling
