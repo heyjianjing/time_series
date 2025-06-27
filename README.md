@@ -13,7 +13,7 @@ Main reference
 * Markov property
 * Joint Bayesian recursion
 * Marginal Bayesian recursion with numerical integration
-* **Example**: 1D single mode and multi-mode tracking
+* **Example**: 1D single mode and multi-mode tracking of state
 
 `sst_02`
 * Monte Carlo (MC) integration
