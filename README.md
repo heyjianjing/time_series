@@ -26,3 +26,4 @@ Main reference
 * **Example**: 1D single mode and multi-mode tracking of state
 * Effective particle number and degeneracy problem
 * Particle resampling
+* Joint estimation of state and model parameters
