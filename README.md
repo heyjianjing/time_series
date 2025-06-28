@@ -23,7 +23,7 @@ Main reference
 * Approximate posterior density with particles
 * Recursion for importance density and weights
 * Sequential importance sampling (SIS)
-* **Example**: 1D single mode and multi-mode tracking of state
 * Effective particle number and degeneracy problem
-* Particle resampling
-* Joint estimation of state and model parameters
+* **Example**: 1D single mode and multi-mode tracking of state
+* **Example**: Particle resampling
+* **Example**: Joint estimation of state and model parameters
