@@ -27,3 +27,8 @@ Main reference
 * **Example**: 1D single mode and multi-mode tracking of state
 * **Example**: Particle resampling
 * **Example**: Joint estimation of state, model parameters, and noise
+
+`sst_03`
+* Online changepoint detection
+* Marginal predictive distribution
+* Run length posterior
