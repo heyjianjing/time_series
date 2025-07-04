@@ -30,5 +30,6 @@ Main reference
 
 `sst_03`
 * Online changepoint detection
-* Marginal predictive distribution
+* Sequence predictive distribution
 * Run length posterior
+* Conjugate prior on parameters and efficient computation of posterior predictive
