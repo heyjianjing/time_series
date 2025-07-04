@@ -33,3 +33,4 @@ Main reference
 * Sequence predictive distribution
 * Run length posterior
 * Conjugate prior on parameters and efficient computation of posterior predictive
+* Exponential family
