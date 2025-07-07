@@ -32,5 +32,6 @@ Main reference
 * Online changepoint detection
 * Sequence predictive distribution
 * Run length posterior
-* Conjugate prior on parameters and efficient computation of posterior predictive
+* Conjugate models
 * Exponential family
+* Changepoint prior
