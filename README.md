@@ -1,9 +1,6 @@
-# Bayesian state space tracking
+# Some time series algorithms
 
-Main reference
-* Lectures from Prof. James McNames (Portland State)
-
-`sst_01`
+`ts_01`
 * Bias and variance of estimator
 * Distribution and likelihood function
 * Maximum likelihood estimator
@@ -15,7 +12,7 @@ Main reference
 * Marginal Bayesian recursion with numerical integration
 * **Example**: 1D single mode and multi-mode tracking of state
 
-`sst_02`
+`ts_02`
 * Monte Carlo (MC) integration
 * Importance sampling
 * Impulse (particle) representation of distribution
@@ -28,7 +25,7 @@ Main reference
 * **Example**: Particle resampling
 * **Example**: Joint estimation of state, model parameters, and noise
 
-`sst_03`
+`ts_03`
 * Online changepoint detection
 * Sequence predictive distribution
 * Run length posterior
