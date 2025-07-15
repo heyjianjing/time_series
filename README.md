@@ -27,8 +27,8 @@
 
 `ts_03`
 * Online changepoint detection
-* Sequence predictive distribution
 * Run length posterior
 * Conjugate models
 * Exponential family
 * Changepoint prior
+* **Example**: Gaussian data with fixed variance
