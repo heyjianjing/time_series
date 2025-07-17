@@ -28,7 +28,10 @@
 `ts_03`
 * Online changepoint detection
 * Run length posterior
+* Changepoint prior
 * Conjugate models
 * Exponential family
-* Changepoint prior
-* **Example**: Gaussian data with fixed variance
+* Recursion for Gaussian conjugate prior
+* **Example**: Gaussian with changing mean and fixed variance
+* Recursion for Gaussian-gamma conjugate prior
+* **Example**: Gaussian with changing mean and variance
